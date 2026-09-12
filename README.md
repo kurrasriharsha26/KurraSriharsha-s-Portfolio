@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Computer Science Engineering student passionate about solving complex problems through technology. My interests span Software Engineering, Artificial Intelligence, Full Stack Development, Cloud Technologies, and Product Development.
+I am a Computer Science Engineering student passionate about solving complex problems through technology. My interests span Software Engineering, Frontend Engineer,Artificial Intelligence, Full Stack Development, Cloud Technologies, and Product Development.
 
 ---
 
