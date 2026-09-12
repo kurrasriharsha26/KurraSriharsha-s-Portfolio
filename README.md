@@ -1,7 +1,6 @@
 # 🌐 Kurra Sriharsha — Personal Portfolio Website
 
-> **Live Site:** https://kurrasriharsha26.github.io
-
+> **Live Site:**  https://kurrasriharsha26.github.io/KurraSriharsha-s-Portfolios-s/
 ---
 
 ## 👩‍💻 About Me
