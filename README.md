@@ -16,7 +16,7 @@ I am a Computer Science Engineering student passionate about solving complex pro
 - 🥉 3rd Place — Glitch Hackathon (Smart KYC Vault)
 - 🏅 State Rank 142 — TS ECET
 - 📜 Diploma CGPA 9.83 — Civil Engineering
-- 🎓 Engineering CGPA 8.52 — B.Tech CSE
+- 🎓 Engineering CGPA 8.64 — B.Tech CSE
 - 🏢 3 Industry Internships — IBM · Edunet · L&T
 
 ---
